@@ -27,7 +27,7 @@ A **Library Management System** built using **Python (Tkinter)** and **MySQL** f
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/library-management-system.git
+    git clone https://github.com/metthunder/Library-Management-System/
     cd library-management-system
     ```
 
