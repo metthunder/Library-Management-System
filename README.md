@@ -43,7 +43,7 @@ A **Library Management System** built using **Python (Tkinter)** and **MySQL** f
 4. **Run the application:**
 
     ```bash
-    python Source_Code.py
+    python SourceCode.py
     ```
 
 5. The **dashboard** will open where you can manage the library system.
